@@ -1781,7 +1781,8 @@ button.mfp-close svg{
     z-index:1
 }
 .qodef-swiper-container .swiper-slide img{
-    width:100%
+    width:100%;
+
 }
 .qodef-swiper-container.qodef-blog .qodef-blog-item{
     margin-bottom:0
@@ -1804,7 +1805,7 @@ button.mfp-close svg{
     transform:translate(calc(50vw - 64px),-50%)!important
 }
 .qodef-swiper-container.qodef-swiper--show-hidden-slides .swiper-button-next .swiper-container-horizontal.qodef-swiper--show-pagination.qodef-swiper-container.qodef-swiper--show-hidden-slides .swiper-button-next{
-    transform:translate(calc(50vw - 64px),calc(-50% - 30px))!important
+    transform:translate(calc(100vw - 64px),calc(-50% - 30px))!important
 }
 .qodef-swiper-container.qodef-swiper--show-hidden-slides .qodef-swiper-together-nav{
     justify-content:center!important;
